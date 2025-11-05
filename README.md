@@ -18,12 +18,8 @@ A custom-built, highly efficient Text-User Interface (TUI) launcher script desig
 
 This launcher is provided as a single JavaScript file (`user_script.js`) for direct implementation within the AP37 Text-based Launcher environment.
 
-1.  **Install AP37 Text-based Launcher:** If not already installed, download the official launcher from the Google Play Store:
+ **Install AP37 Text-based Launcher:** If not already installed, download the official launcher from the Google Play Store:
     [https://play.google.com/store/apps/details?id=com.aurhe.ap37](https://play.google.com/store/apps/details?id=com.aurhe.ap37)
-2.  **Access Script Editor:** Open the AP37 Text-based Launcher app, navigate to its settings, and locate the "Script Editor" or "User Script" section.
-3.  **Paste Script:** Copy the entire content of this `user_script.js` file and paste it into the AP37 script editor.
-4.  **Enable as Launcher:** In the AP37 settings, activate the "Set as launcher" option and select your newly added script.
-5.  **Restart (Recommended):** For all changes to take full effect, it is advisable to restart the AP37 Text-based Launcher or your Android device.
 
 ## Usage
 
